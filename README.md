@@ -8,7 +8,7 @@ coursera testing repository
          <div>
 </main>
 <h3>We hope to see you <em>you</em>
-<strong>January 8</strong>!</p>
+<strong>on January 8th</strong>!</p>
 
 <form>
   <input placeholder="Email"
